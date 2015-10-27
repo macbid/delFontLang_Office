@@ -2,7 +2,7 @@
 Deletes unused language, redundant fonts, proofing tools, bug reporting apps from Office v15.15 (and maybe future versions)
 
 # more info
-For Office 2016 *v15.15* (and maybe future versions?)
+For Office 2016 **v15.15** (and maybe future versions?)
 
 With this script, you'll get rid of : 
 * Unused applications languages,
